@@ -21,7 +21,7 @@
 - 언어 : **Swift**
 - Architecture - **MVVM**
 - **RxSwift, RxCocoa**
-- **Kinfisher**
+- **Kingfisher**
 - **Moya, RxMoya**
 - 디자인 시스템, 커스텀 뷰 재활용 (모듈화)
 - **Server Driven UI** (백엔드 정보를 기반으로 한 유동적 UI 구성)
