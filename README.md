@@ -50,16 +50,16 @@
 
 ## ScreenShot  
 
-<p align="center"><img width="800" alt="스샷0" src="https://user-images.githubusercontent.com/61315014/200599133-3e6d6215-ab07-432c-8cd4-92bd69b0e926.png"></p>
+<p align="center"><img width="700" alt="스샷0" src="https://user-images.githubusercontent.com/61315014/200599133-3e6d6215-ab07-432c-8cd4-92bd69b0e926.png"></p>
 
-<p align="center"><img width="800" alt="스샷1" src="https://user-images.githubusercontent.com/61315014/200599151-ced87d1e-ffe4-4185-ac64-9e03827b6452.png"></p>
+<p align="center"><img width="700" alt="스샷1" src="https://user-images.githubusercontent.com/61315014/200599151-ced87d1e-ffe4-4185-ac64-9e03827b6452.png"></p>
 
-<p align="center"><img width="800" alt="스샷2" src="https://user-images.githubusercontent.com/61315014/200599166-dd3ecd0f-bdc0-457f-8dbc-b7de49920de3.png"></p>
+<p align="center"><img width="700" alt="스샷2" src="https://user-images.githubusercontent.com/61315014/200599166-dd3ecd0f-bdc0-457f-8dbc-b7de49920de3.png"></p>
 
-<p align="center"><img width="800" alt="스샷3" src="https://user-images.githubusercontent.com/61315014/200599186-67a9a8f8-b4ef-47aa-8535-51db15d38c11.png"></p>
+<p align="center"><img width="700" alt="스샷3" src="https://user-images.githubusercontent.com/61315014/200599186-67a9a8f8-b4ef-47aa-8535-51db15d38c11.png"></p>
 
-<p align="center"><img width="800" alt="스샷4" src="https://user-images.githubusercontent.com/61315014/200599193-edd2f9e0-9fee-4c29-987f-db1c94af3ccf.png"></p>
+<p align="center"><img width="700" alt="스샷4" src="https://user-images.githubusercontent.com/61315014/200599193-edd2f9e0-9fee-4c29-987f-db1c94af3ccf.png"></p>
 
-<p align="center"><img width="800" alt="스샷5" src="https://user-images.githubusercontent.com/61315014/200599198-f81d414e-e1d3-46b6-a73b-f08d9c868aa0.png"></p>
+<p align="center"><img width="700" alt="스샷5" src="https://user-images.githubusercontent.com/61315014/200599198-f81d414e-e1d3-46b6-a73b-f08d9c868aa0.png"></p>
 
-<p align="center"><img width="800" alt="스샷6" src="https://user-images.githubusercontent.com/61315014/200599201-c0e20507-d295-4f89-b150-8745f87d814a.png"></p>
+<p align="center"><img width="700" alt="스샷6" src="https://user-images.githubusercontent.com/61315014/200599201-c0e20507-d295-4f89-b150-8745f87d814a.png"></p>
