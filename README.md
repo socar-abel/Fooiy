@@ -1,3 +1,6 @@
+<p align="center"><img width="515" alt="앱 아이콘이랑 이름" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
+
+
 ## Topic
 
 - **앱 이름 : 푸이 - 내 손안의 모든 음식점**
