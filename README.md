@@ -1,5 +1,8 @@
-<p align="center"><img width="400" alt="앱 아이콘이랑 이름" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
+<p align="center"><img width="400" alt="앱 로고" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
 
+<p align="center"><img width="600" alt="앱 스토어" src="https://user-images.githubusercontent.com/61315014/200598183-b42118d4-4683-44b3-a7af-471c58391a61.png"></p>
+
+<p align="center"><img width="600" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/200598533-ecee25dd-7357-44e2-91bd-23b752ca6f41.png"></p>
 
 ## Topic
 
@@ -44,3 +47,5 @@
   - 디자이너와의 대화를 통해 "...를 완료했습니다." 를 사용하는 페이지는 모두 동일한 디자인을 사용하도록 요청했습니다. 예를 들어, 닉네임 변경을 완료하거나, 게시물 등록을 완료했을때, 문의 등록을 완료했을 때 등의 "..를 완료했습니다." 페이지는 **동일한 Custom ViewController 를 활용**했습니다.
 - 피드 테이블 뷰 UI에서, 수많은 게시물들을 효율적으로 로드하기 위해 스크롤마다 일정량의 게시물을 로드하는 로직 구현 경험.
 - 지도, 피드, 푸시 알림, Server Driven UI, RxSwift, RxMoya, 커스텀 collectionview, 커스텀 tableview 등 다양한 개발 경험.
+
+## ScreenShot  
