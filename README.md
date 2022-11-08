@@ -1,8 +1,8 @@
-<p align="center"><img width="400" alt="앱 로고" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
+<p align="center"><img width="300" alt="앱 로고" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
 
-<p align="center"><img width="600" alt="앱 스토어" src="https://user-images.githubusercontent.com/61315014/200598183-b42118d4-4683-44b3-a7af-471c58391a61.png"></p>
+<p align="center"><img width="350" alt="앱 스토어" src="https://user-images.githubusercontent.com/61315014/200598183-b42118d4-4683-44b3-a7af-471c58391a61.png"></p>
 
-<p align="center"><img width="600" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/200598533-ecee25dd-7357-44e2-91bd-23b752ca6f41.png"></p>
+<p align="center"><img width="800" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/200598533-ecee25dd-7357-44e2-91bd-23b752ca6f41.png"></p>
 
 ## Topic
 
