@@ -1,12 +1,12 @@
-<p align="center"><img width="300" alt="앱 로고" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
+<p align="center"><img width="250" alt="앱 로고" src="https://user-images.githubusercontent.com/61315014/200597632-8df84b23-b048-4850-9d99-8b2e851dd1c7.png"></p>
 
-<p align="center"><img width="350" alt="앱 스토어" src="https://user-images.githubusercontent.com/61315014/200598183-b42118d4-4683-44b3-a7af-471c58391a61.png"></p>
+<p align="center"><img width="300" alt="앱 스토어" src="https://user-images.githubusercontent.com/61315014/200598183-b42118d4-4683-44b3-a7af-471c58391a61.png"></p>
 
-<p align="center"><img width="800" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/200598533-ecee25dd-7357-44e2-91bd-23b752ca6f41.png"></p>
+<p align="center"><img width="700" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/200598533-ecee25dd-7357-44e2-91bd-23b752ca6f41.png"></p>
 
 ## Topic
 
-- **앱 이름 : 푸이 - 내 손안의 모든 음식점**
+- **앱 이름 : 푸이 - 내 손안의 모든 음식점** (2022.11 - 2000 다운로드)
 - **음식점 경험 기록 및 추천 서비스**
 - **맡은 역할 : iOS 개발 담당** (SW 마에스트로 13기 푸이 팀 - 서버 1명, iOS 1명, 안드로이드 1명)
 - **개발 기간** : 2022.04 ~ ing
