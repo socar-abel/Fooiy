@@ -16,7 +16,9 @@
 - 머니투데이 기사 : https://news.mt.co.kr/mtview.php?no=2022091716551984413
 - **창업을 하는 팀 규정 상 코드가 private 처리 되어있는 점 양해 부탁드립니다.**
 
+## Archiectrue
 
+![](https://velog.velcdn.com/images/heyksw/post/8761e1b5-83fa-4c15-9bd8-c6e29b41a461/image.png)
 
 ## Tech
 
@@ -29,10 +31,6 @@
 - **Server Driven UI** (백엔드 정보를 기반으로 한 유동적 UI 구성)
 → Server Driven UI 를 공부하며 블로그에 정리한 글 : [https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View](https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View)
 - 협업 : Jira, Git flow
-
-## Archiectrue
-
-![](https://velog.velcdn.com/images/heyksw/post/8761e1b5-83fa-4c15-9bd8-c6e29b41a461/image.png)
 
 ## Experience
 
