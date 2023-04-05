@@ -30,6 +30,9 @@
 → Server Driven UI 를 공부하며 블로그에 정리한 글 : [https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View](https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View)
 - 협업 : Jira, Git flow
 
+### Archiectrue
+
+![](https://velog.velcdn.com/images/heyksw/post/8761e1b5-83fa-4c15-9bd8-c6e29b41a461/image.png)
 
 ## Experience
 
@@ -43,7 +46,7 @@
   - **그래서 푸이의 모든 Moya API 코드는 오직 CommonMoyaProvider 한 개만을 사용**하고 있습니다. 이 구조는 나중에 생길 수 있는 api 코드 변화에도 유용할 것으로 생각됩니다.
 - **모듈화**를 통해 코드 재사용 및 관리.
   - [푸이]는 **Common** 이라는 모듈과 **Common-UI** 라는 모듈을 두고 최대한 코드들을 재활용할 수 있도록 합니다.
-  - **Common** 에는 네트워크 로직, Data Entity, Localizable String, Extension 등의 코드가 있습니다.
+  - **Common** 에는 String, Enum, Extension 등의 코드가 있습니다.
   - **Common-UI** 에는 Custom UIButton, Custom UITableCell, Custom UICollectionViewCell, Custom UIViewController 등이 있습니다.
   - 유저들이 올린 게시물들을 무한으로 스크롤하며 볼 수 있는 **Feed 의 FeedViewModel 에서는 Common 의 네트워크 로직을 재활용**해서 사용합니다.
   - 모든 음식점에 대한 게시물들을 볼 수 있는 **FeedViewController 의 TableView** 와, 한 음식점에 대한 게시물들만 볼 수 있는 **ShopDetailViewController 의 TableView** 에서는, **공통적으로 Common-UI 에서 가져온 동일한 Custom UITableCell 을 활용하는 구조**로 설계했습니다.
