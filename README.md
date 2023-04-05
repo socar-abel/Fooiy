@@ -48,7 +48,6 @@
   - [푸이]는 **Common** 이라는 모듈과 **Common-UI** 라는 모듈을 두고 최대한 코드들을 재활용할 수 있도록 합니다.
   - **Common** 에는 String, Enum, Extension 등의 코드가 있습니다.
   - **Common-UI** 에는 Custom UIButton, Custom UITableCell, Custom UICollectionViewCell, Custom UIViewController 등이 있습니다.
-  - 유저들이 올린 게시물들을 무한으로 스크롤하며 볼 수 있는 **Feed 의 FeedViewModel 에서는 Common 의 네트워크 로직을 재활용**해서 사용합니다.
   - 모든 음식점에 대한 게시물들을 볼 수 있는 **FeedViewController 의 TableView** 와, 한 음식점에 대한 게시물들만 볼 수 있는 **ShopDetailViewController 의 TableView** 에서는, **공통적으로 Common-UI 에서 가져온 동일한 Custom UITableCell 을 활용하는 구조**로 설계했습니다.
   - 디자이너와의 대화를 통해 "...를 완료했습니다." 를 사용하는 페이지는 모두 동일한 디자인을 사용하도록 요청했습니다. 예를 들어, 닉네임 변경을 완료하거나, 게시물 등록을 완료했을때, 문의 등록을 완료했을 때 등의 "..를 완료했습니다." 페이지는 **동일한 Custom ViewController 를 활용**했습니다.
 - 피드 테이블 뷰 UI에서, 수많은 게시물들을 효율적으로 로드하기 위해 스크롤마다 일정량의 게시물을 로드하는 로직 구현 경험.
