@@ -30,7 +30,7 @@
 → Server Driven UI 를 공부하며 블로그에 정리한 글 : [https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View](https://velog.io/@heyksw/Server-Driven-UI-Multi-Cell-Type-Custom-Table-View)
 - 협업 : Jira, Git flow
 
-### Archiectrue
+## Archiectrue
 
 ![](https://velog.velcdn.com/images/heyksw/post/8761e1b5-83fa-4c15-9bd8-c6e29b41a461/image.png)
 
