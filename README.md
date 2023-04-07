@@ -16,7 +16,7 @@
 - 머니투데이 기사 : https://news.mt.co.kr/mtview.php?no=2022091716551984413
 - **창업을 하는 팀 규정 상 코드가 private 처리 되어있는 점 양해 부탁드립니다.**
 
-## Archiectrue
+## Archiecture
 
 ![](https://velog.velcdn.com/images/heyksw/post/8761e1b5-83fa-4c15-9bd8-c6e29b41a461/image.png)
 
