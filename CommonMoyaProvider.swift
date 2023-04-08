@@ -20,16 +20,3 @@ class CommonMoyaProvider<T: TargetType>: MoyaProvider<T> {
         super.init(session: session, plugins: [networkLoggerPlugin, networkActivityPlugin])
     }
 }
-
-// how to use
-/*
-open class FeedService {
-    private let provider = CommonMoyaProvider<FeedAPI>()
-    ...
-    public func getFeedList(request: FeedListRequest) -> Single<FeedListResponse> {
-        return provider.rx.request(.getFeedList(offset: offset, accountID: accountID))
-            .map(FeedListResponse.self)
-    }
-    ...
-}
-*/
